@@ -30,7 +30,7 @@ Follow the steps below to install and run the application
 ```
 wget https://sawtooth.hyperledger.org/docs/core/releases/1.0/app_developers_guide/sawtooth-default.yaml
 ```
-**Step 6**: [Install Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04). NOTE: Only follow Step 1 - Installing Docker of this link.
+**Step 6**: [Install Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04). NOTE: Only follow Step 1 - Installing Docker.
 
 **Step 7**: Install Docker Compose. NOTE: This is a two part process done in the VM terminal.
 
