@@ -112,7 +112,7 @@ Example: xo show newGame --url rest-api:8008
 
 ## Authors
 
-* **Research and Prototype Team** - *Initial work* - [SARA-](https://github.com/sara-sabr)
+* **Research and Prototype Team**
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
